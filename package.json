@@ -1,0 +1,25 @@
+{
+  "name": "travelmap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gengauss/travelmap.git"
+  },
+  "keywords": [
+    "1"
+  ],
+  "author": "Anh Nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gengauss/travelmap/issues"
+  },
+  "homepage": "https://github.com/gengauss/travelmap#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
